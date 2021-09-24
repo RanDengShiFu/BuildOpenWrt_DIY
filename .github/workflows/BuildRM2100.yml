@@ -1,4 +1,4 @@
-name: Build OpenWrt For 红米RM2100
+name: 红米RM2100
 
 on:
   repository_dispatch:
