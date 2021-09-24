@@ -8,7 +8,7 @@ env:
   REPO_URL: https://github.com/openwrt/openwrt
   REPO_BRANCH: openwrt-21.02
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: BuildRM2100.config
+  CONFIG_FILE: ac2100_script.config
   DIY_P1_SH: custom_script.sh
   DIY_P2_SH: custom2.sh
   UPLOAD_BIN_DIR: false
